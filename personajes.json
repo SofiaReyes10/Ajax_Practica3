@@ -1,0 +1,9 @@
+[
+    {"nombre": "Ramiro", "peso": 66, "altura": 1.74, "gordura": 22, "imc": 19.82},
+    {"nombre": "Carla", "peso": 60, "altura": 1.6, "gordura": 17, "imc": 24.22},
+    {"nombre": "Mariane", "peso": 57, "altura": 1.5, "gordura": 13, "imc": 20.76},
+    {"nombre": "Daniela", "peso": 80, "altura": 1.7, "gordura": 26, "imc": 25.95},
+    {"nombre": "Sofia", "peso": 52, "altura": 1.25, "gordura": 10, "imc": 14.72},
+    {"nombre": "Camila", "peso": 68, "altura": 1.75, "gordura": 10, "imc": 23.84},
+    {"nombre": "Edgar", "peso": 78, "altura": 1.85, "gordura": 19, "imc": 22.79}
+]
